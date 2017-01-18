@@ -1,1 +1,13 @@
 hai this is my first testgit file
+
+<?php
+
+
+print ($sum_total);
+
+$a = array("1", "10", "20", "30","50");
+echo "sum(a) = " . array_sum($a) . "\n";
+
+$b = array("a" => 1.2, "b" => 2.3, "c" => 3.4);
+echo "sum(b) = " . array_sum($b) . "\n";
+?>
